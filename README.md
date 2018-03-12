@@ -1,1 +1,1 @@
-# ESP_Easy_rule_highlight_Notepad-
+![Example highlight](Screenshot_1.PNG)
