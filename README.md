@@ -1,1 +1,1 @@
-![Example highlight](Screenshot_1.PNG)
+![Example highlight](Screenshot_1.png)
