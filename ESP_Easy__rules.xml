@@ -14,7 +14,7 @@
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
             <Keywords name="Operators1">&gt; &lt; = &lt;= &gt;= &lt;&gt; !=</Keywords>
-            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Operators2">#</Keywords>
             <Keywords name="Folders in code1, open">On</Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
             <Keywords name="Folders in code1, close">EndOn</Keywords>
@@ -25,14 +25,14 @@
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
             <Keywords name="Keywords1">Delay&#x000D;&#x000A;GPIO&#x000D;&#x000A;LongPulse&#x000D;&#x000A;LongPulse_mS&#x000D;&#x000A;Pulse&#x000D;&#x000A;Publish&#x000D;&#x000A;PWM&#x000D;&#x000A;Reboot&#x000D;&#x000A;Tone&#x000D;&#x000A;Rtttl&#x000D;&#x000A;SendTo&#x000D;&#x000A;SendToHTTP&#x000D;&#x000A;SendToUDP&#x000D;&#x000A;Servo&#x000D;&#x000A;TaskRun&#x000D;&#x000A;TaskValueSet&#x000D;&#x000A;TimerSet</Keywords>
-            <Keywords name="Keywords2">System#Boot&#x000D;&#x000A;System#Sleep&#x000D;&#x000A;Clock#Time=&#x000D;&#x000A;Rules#Timer=</Keywords>
+            <Keywords name="Keywords2">System#Boot&#x000D;&#x000A;System#Sleep&#x000D;&#x000A;MQTT#Connected&#x000D;&#x000A;WiFi#Connected&#x000D;&#x000A;Login#Failed&#x000D;&#x000A;Clock#Time=&#x000D;&#x000A;Rules#Timer=</Keywords>
             <Keywords name="Keywords3">Event</Keywords>
             <Keywords name="Keywords4">Do</Keywords>
             <Keywords name="Keywords5">and&#x000D;&#x000A;or</Keywords>
-            <Keywords name="Keywords6"></Keywords>
+            <Keywords name="Keywords6">#</Keywords>
             <Keywords name="Keywords7"></Keywords>
             <Keywords name="Keywords8"></Keywords>
-            <Keywords name="Delimiters"></Keywords>
+            <Keywords name="Delimiters">00[ 01 02] 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
         </KeywordLists>
         <Styles>
             <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
@@ -44,15 +44,15 @@
             <WordsStyle name="KEYWORDS3" fgColor="808080" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS4" fgColor="008040" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS5" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="FF8000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="OPERATORS" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="FOLDER IN CODE1" fgColor="008040" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="FOLDER IN CODE2" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="32768" />
             <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
